@@ -6,13 +6,13 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install @metismenu/angular metismenujs
+$ npm install @metismenu/angular
 ```
 
 Install with [yarn](https://yarnpkg.com):
 
 ```sh
-$ yarn add @metismenu/angular metismenujs
+$ yarn add @metismenu/angular
 ```
 
 ## Usage
@@ -33,8 +33,8 @@ Edit `angular.json` file
 
 ```json
 "styles": [
-  "./node_modules/metismenujs/scss/metismenujs.scss",
-  "src/styles.scss"
+  "./node_modules/metismenujs/dist/metismenujs.css",
+  "src/styles.css"
 ]
 
 ```

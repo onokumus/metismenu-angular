@@ -15,10 +15,10 @@
   },
   "peerDependencies": {
     "@angular/common": "^10.0.2",
-    "@angular/core": "^10.0.2",
-    "metismenujs": "^1.2.1"
+    "@angular/core": "^10.0.2"
   },
   "dependencies": {
+    "metismenujs": "^1.2.1",
     "tslib": "^2.0.0"
   }
 }
