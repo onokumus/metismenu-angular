@@ -1,0 +1,24 @@
+{
+  "name": "@metismenu/angular",
+  "version": "0.0.1",
+  "description": "angular component for MetisMenu",
+  "keywords": [
+    "metismenu",
+    "angular",
+    "component"
+  ],
+  "repository": "git@github.com:onokumus/metismenu-angular.git",
+  "author": "Osman Nuri Okumus <onokumus@gmail.com> (https://onokumus.com/)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@angular/common": "^10.0.2",
+    "@angular/core": "^10.0.2",
+    "metismenujs": "^1.2.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
